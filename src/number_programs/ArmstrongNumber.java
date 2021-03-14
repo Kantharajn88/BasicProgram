@@ -6,7 +6,7 @@ public class ArmstrongNumber
 	{
 
 		int num,temp,rem,sum=0;
-		num=153;
+		num=123;
 		temp=num;
 		while(num!=0)
 		//for(int i=0;i<=num;i++)
